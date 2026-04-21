@@ -13,5 +13,88 @@
 #     source_needed: "Q4 earnings report or 10-K filing"
 #     status: unverified
 #     date_added: "2026-02-23"
-last_updated: "2026-02-23"
-items: []
+last_updated: "2026-04-21"
+items:
+  - claim: "Executive leadership names and titles from Q4 2025 earnings call (Feb 13, 2026)"
+    document: "Additional Sources / Financial context"
+    source_needed: "Q4 transcript page with speaker identifications"
+    status: verified
+    date_added: "2026-04-20"
+    note: "Verified in Q4 transcript page 1: Fernando Fernandez (Chief Executive Officer), Srinivas Phatak (Chief Financial Officer), Jemma Spalton (Head of Investor Relations)."
+    
+  - claim: "Google Cloud partnership explicitly mentioned in FY2025 Annual Report"
+    document: "Additional Sources"
+    source_needed: "Annual Report 2025 document search or investor relations materials"
+    status: removed
+    date_added: "2026-04-20"
+    note: "Closed as unsupported in FY2025 annual report. Publication blocker if asserted as annual-report fact; use 2026 external sources instead."
+    
+  - claim: "Beauty & Wellbeing and Personal Care segment margin trends (operating margins, not just growth)"
+    document: "Additional Sources / Financial exhibit"
+    source_needed: "Annual Report 2025 - detailed segment P&L pages"
+    status: verified
+    date_added: "2026-04-20"
+    note: "Verified in Q4 transcript: Beauty & Wellbeing margin 19.2% (page 5), Personal Care margin 22.6% (page 7), Home Care margin 14.9% (page 8)."
+    
+  - claim: "Specific growth rates for named brands (Dove, Vaseline, Persil double-digit growth)"
+    document: "Additional Sources / Main Case"
+    source_needed: "Q4 earnings call or annual report - brand-level performance tables"
+    status: removed
+    date_added: "2026-04-20"
+    note: "Closed as mixed-verification claim. Dove and Vaseline references are partially supported, but Persil double-digit percentage is not verified; keep excluded from publication narrative."
+    
+  - claim: "Agentic retail / shopping models referenced as operational reality (not just aspiration)"
+    document: "Main Case / Strategy section"
+    source_needed: "Q4 call quote context - is this pilot or strategic commitment?"
+    status: flagged
+    date_added: "2026-04-20"
+    note: "Q4 transcript page 20 confirms statement, but language frames strategy/partnership direction rather than proven scaled deployment. Publication blocker if presented as scaled operational fact; allowed only as caveated strategic intent."
+    
+  - claim: "€800 million productivity/cost reduction program on track for 2026 completion"
+    document: "Additional Sources"
+    source_needed: "Annual Report 2025 or Q4 call - program details and status"
+    status: verified
+    date_added: "2026-04-20"
+    note: "Verified in Q4 transcript page 14: 'We remain on track to complete the 800 million euros programme in 2026.'"
+    
+  - claim: "23,000+ employees trained on generative AI tools (from 2024 AI strategy)"
+    document: "Main Case / AI Transformation Strategy"
+    source_needed: "Investor presentation, earnings call transcript, or official press release"
+    status: removed
+    date_added: "2026-04-20"
+    note: "Closed as unsupported in current source base and removed from draft package. Publication blocker unless independently sourced."
+    
+  - claim: "500+ AI projects deployed globally"
+    document: "Main Case / AI Scale and Scope"
+    source_needed: "Investor conference materials or major company announcement"
+    status: removed
+    date_added: "2026-04-20"
+    note: "Closed as unsupported in current source base and removed from draft package. Publication blocker unless independently sourced."
+    
+  - claim: "Sketch Pro - Unilever's internal AI-powered graphic design division"
+    document: "Main Case / Product/Marketing Operations"
+    source_needed: "Press release, case study, or internal communication"
+    status: verified
+    date_added: "2026-04-20"
+    note: "Verified in Annual Report 2025 page 28: 'embedding AI-powered design capabilities into brand teams via Sketch Pro - our in-house studio'."
+    
+  - claim: "'Go wide and go deep' AI strategy adopted in 2024"
+    document: "Main Case / Strategic Framework"
+    source_needed: "Investor materials, strategy documents, or company presentation"
+    status: removed
+    date_added: "2026-04-20"
+    note: "Closed as unsupported public phrasing and removed from draft package. Publication blocker unless independently sourced."
+    
+  - claim: "Esi Eggleston Bracey departure/transition from CMO role (late January 2026)"
+    document: "Main Case / Leadership Changes"
+    source_needed: "Official announcement or HR portal; last public attribution Oct 21, 2025"
+    status: verified
+    date_added: "2026-04-20"
+    note: "Verified in Annual Report 2025 pages 58 and 68: stood down 31 Dec 2025 and left company on 31 Jan 2026; Leandro Barreto appointed CMO, Unilever and Beauty & Wellbeing."
+    
+  - claim: "Fernando Fernandez became CEO in late 2025/early 2026"
+    document: "Main Case / Leadership Structure"
+    source_needed: "Press release or SEC filing (exact start date); Dec 2025 interview says 'just over a year'"
+    status: flagged
+    date_added: "2026-04-20"
+    note: "Claim wording likely inaccurate. Annual Report 2025 identifies him as current/new CEO during 2025; exact appointment date still needs a formal appointment source. Publication blocker if exact date is asserted."
