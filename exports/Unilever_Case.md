@@ -93,6 +93,8 @@ External commentary raised the stakes.
 
 Industry publications in February 2026 described Unilever's Google Cloud partnership as an "agentic AI" and "agentic commerce" move designed to support marketing transformation, integrated data platforms, and faster demand generation. Coverage in CIO Dive and Marketing Dive framed the deal as a step toward AI-first operating capabilities rather than a narrow IT modernization exercise.
 
+Independent third-party coverage pushed in the same direction. Computer Weekly reported that Google Cloud would become the destination for Unilever's consolidated cloud and data platform, that the five-year deal included Vertex AI, and that the company was building next-generation capabilities for future agentic commerce. Consumer Goods Technology described the program as an "AI-first digital backbone" that would help Unilever generate demand faster and prepare for AI-driven commerce. Financial Times partner content added a supply-chain lens, noting that Unilever was using Google Cloud and geospatial data to monitor and reduce deforestation.
+
 The company itself used sharper language in the joint announcement. Willem Uijen said, "Technology has moved to the core of value creation at Unilever," and Tara Brady of Google Cloud added that the partnership would "create a system of intelligence that reasons, learns, and acts." The same release said the collaboration would help Unilever build "an enterprise-wide, AI-first digital backbone" and support "agentic workflows."
 
 Cloud Wars commentary emphasized the same direction with a different tone: this was a shift in how brands would be discovered and shopped in increasingly conversational, model-mediated consumer journeys.

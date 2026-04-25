@@ -24,19 +24,19 @@ Quick reference for session continuity. Auto-maintained by skills — you do not
 - [x] Main Case - full draft completed with discussion questions and instructor cold-call opener (`case-study/02-Main-Case.md`)
 - [x] Technical Supplement - completed with market context, competitive landscape, frameworks, and glossary (`case-study/03-Technical-Supplement.md`)
 - [x] Quality Verification Log - completed with fact-check outcomes and correction register (`case-study/04-Quality-Verification-Log.md`)
-- [ ] Teaching Note - not started
+- [x] Teaching Note - drafted with case synopsis, learning objectives, assignment, and discussion guide (`case-study/05-Teaching-Note.md`)
 
 ## Source Quality
 
 **Source Registry**: Populated and expanded with financial, transcript, trade, and analyst sources
-**Tier Breakdown**: T1: 10 | T2: 0 | T3: 0
-**Last Assessment**: 2026-04-21
+**Tier Breakdown**: T1: 10 | T2: 3 | T3: 0
+**Last Assessment**: 2026-04-25
 **Assessment Result**: AMBER (sufficient for draft-quality case, with residual publication blockers on selected claim/date precision)
 
 ## Verification Debt
 
 **Open Items**: 3 flagged precision risks (see verification tracker)
-**Last Updated**: 2026-04-21
+**Last Updated**: 2026-04-25
 See `verification-debt.yaml` for details.
 
 ## Key Decisions Made
@@ -56,4 +56,4 @@ See `verification-debt.yaml` for details.
 
 1. Close remaining flagged claims or maintain explicit caveats for publication
 2. Complete publication-date metadata for any remaining local PDFs that still lack recoverable date evidence
-3. Draft `case-study/05-Teaching-Note.md` aligned to Exhibits A-D and verification controls
+3. Sync exports and publication copies before final PDF export

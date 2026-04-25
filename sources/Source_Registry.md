@@ -13,9 +13,9 @@ Central registry of all source materials for the case study, with quality tier c
 | Tier | Count | Description |
 |------|-------|-------------|
 | T1 — Primary | 10 | Full-text source in `sources/` folder |
-| T2 — Partial | 0 | Partial text, search-derived, or paywalled |
+| T2 — Partial | 3 | Partial text, search-derived, or paywalled |
 | T3 — Referenced | 0 | Cited but not in repo; unverified |
-| **Total** | **10** | |
+| **Total** | **13** | |
 
 ### Tier Definitions
 
@@ -46,6 +46,9 @@ Central registry of all source materials for the case study, with quality tier c
 
 | # | Source | Tier | Date | Publication | Author | Key Content |
 |---|--------|------|------|-------------|--------|-------------|
+| 1 | Google Cloud supplants Azure as Unilever cloud of choice | T2 | 2026-02-17 | Computer Weekly | Antony Adshead | Five-year cloud contract; Google Cloud becomes destination for Unilever's consolidated cloud/data platform; Vertex AI and agentic-commerce framing |
+| 2 | Unilever to Work With Google Cloud on Five-Year AI, Data Partnership | T2 | 2026-02-17 | Consumer Goods Technology | Liz Dominguez | Five-year AI-first digital backbone; Vertex platform; agentic workflows and AI-driven commerce |
+| 3 | How data and AI can boost supply chain efficiency and sustainability | T2 | 2024 | Financial Times partner content | Google Cloud / FT partnercontent | Unilever uses Google Cloud and geospatial data to monitor deforestation and support supply-chain resilience |
 
 ---
 

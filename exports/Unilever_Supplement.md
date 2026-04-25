@@ -67,6 +67,8 @@ Competitors emphasizing ERP/cloud-core simplification and enterprise process har
 
 Unilever's position in this case appears hybrid: it has tangible operations-side AI evidence (Lighthouse metrics) and explicit demand-generation ambitions (agentic shopping language, AI-enabled marketing production via Sketch Pro), but still faces integration decisions on sequencing and governance.
 
+Third-party coverage reinforces that reading. Computer Weekly and Consumer Goods Technology described the Google Cloud move as a five-year shift toward a consolidated AI-first digital backbone, while FT partner content connected Google Cloud to Unilever's supply-chain visibility and sustainability use cases.
+
 ### 2.2 Practical Competitive Pressure in This Case
 
 The pressure is not only "who has better AI." It is who can:
@@ -78,6 +80,8 @@ In that sense, Unilever competes simultaneously on:
 - Commercial speed (campaign-to-conversion cycle time).
 - Operating reliability (fulfillment, quality, cost).
 - Organizational coherence (shared standards and execution discipline).
+
+The external-source mix matters here because it shows the partnership is being interpreted by independent outlets as an operating-model change, not just a vendor announcement.
 
 ---
 

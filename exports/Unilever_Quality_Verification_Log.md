@@ -47,6 +47,7 @@ Any claim lacking traceable support was either:
 | Cost program | EUR 800M productivity program on track for 2026 completion | Verified | Retained with transcript wording |
 | Leadership transition | Esi stood down 31 Dec 2025, left 31 Jan 2026; Leandro appointed CMO | Verified | Updated narrative and source tables to exact dates |
 | Sketch Pro disclosure | AI-powered design capabilities via Sketch Pro | Verified | Upgraded from unresolved to verified and retained |
+| Third-party partnership framing | Computer Weekly, Consumer Goods Technology, FT partner content | Verified | Added independent confirmation of five-year AI-first backbone language and supply-chain context |
 | Agentic shopping deployment scope | Framed as active operational reality everywhere | Not fully verified as scaled rollout | Reframed as strategic intent; retained with caveat |
 | Google Cloud mention in FY2025 annual report | Explicit mention in annual report | Not found | Marked flagged; prevented misuse as annual report fact |
 | 23,000 trained / 500+ AI projects / go wide and go deep | Internal AI scale claims | Not verified in current source base | Excluded from case narrative and retained as unresolved debt |
@@ -123,6 +124,7 @@ Residual risk:
 - 500+ projects claim.
 - "Go wide and go deep" phrase.
 - Exact formal CEO appointment date (if needed for final publication precision).
+- Third-party validation now supports the partnership framing, but it does not replace the need to keep core financial and leadership claims tied to primary sources.
 
 ---
 

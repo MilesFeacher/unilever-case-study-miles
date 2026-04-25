@@ -54,6 +54,14 @@ This document was assembled with AI-assisted drafting and editorial support.
 | 14 | Unilever adjusts marketing to respond faster to consumer trends (MarketingTech) | 2026-03-25 | https://www.marketingtechnews.net/news/unilever-adjusts-marketing-to-respond-faster-to-consumer-trends/; `sources/reports/Unilever adjusts marketing to respond faster to consumer trends.pdf` | Industry article (T1 PDF + URL) | Marketing speed and responsiveness narrative. |
 | 15 | Unilever Customer Hub Page (Google Cloud) | Date not recoverable from local artifact in current toolchain | `sources/reports/Unilever Customer Hub Page  _ Google Cloud.pdf` | Vendor customer story (T1 PDF) | Partner platform and customer-value narrative for cloud/AI enablement; treat date precision as publication metadata blocker until canonical page/date is captured. |
 
+### 1.4 Independent Third-Party Validation Sources
+
+| # | Source | Publication Date | URL / Local File | Type | Brief Description |
+|---|---|---|---|---|---|
+| 16 | Google Cloud supplants Azure as Unilever cloud of choice | 2026-02-17 | `sources/news/ComputerWeekly_Google_Cloud_suppplants_Azure_as_Unilever_cloud_of_choice.md` | Third-party news capture (T2) | Confirms Google Cloud as destination for Unilever's consolidated cloud/data platform; Vertex AI and agentic-commerce framing. |
+| 17 | Unilever to Work With Google Cloud on Five-Year AI, Data Partnership | 2026-02-17 | `sources/news/ConsumerGoodsTechnology_Unilever_to_Work_With_Google_Cloud_on_Five-Year_AI_Data_Partnership.md` | Third-party news capture (T2) | External confirmation of five-year AI-first digital backbone language and AI-driven commerce framing. |
+| 18 | How data and AI can boost supply chain efficiency and sustainability | 2024 | `sources/news/FT_How_data_and_AI_can_boost_supply_chain_efficiency_and_sustainability.md` | Third-party partner-content capture (T2) | External context on Google Cloud-enabled supply-chain visibility, geospatial data, and sustainability use cases. |
+
 ---
 
 ## 2. Key Quotes Organized by Theme (Exhibit B)
@@ -91,6 +99,14 @@ This document was assembled with AI-assisted drafting and editorial support.
 | "Five-year partnership" and "agentic commerce" | Marketing Dive | 2026-02-17 | Reinforces market expectations for sustained, not one-off, capability development. |
 | "Technology has moved to the core of value creation at Unilever." | Unilever press release | 2026-02-17 | Shows the company framing the partnership as a strategic operating-model shift, not a narrow tech upgrade. |
 | "Create a system of intelligence that reasons, learns, and acts." | Google Cloud press release | 2026-02-17 | Gives the partner's own language for the intended AI operating model. |
+
+### Theme E: Third-Party Validation of the Partnership
+
+| Quote / Characterization | Publication | Date | Why It Matters |
+|---|---|---|---|
+| "Google Cloud will become the destination for Unilever's consolidated cloud and data platform." | Computer Weekly | 2026-02-17 | Confirms the platform shift in independent third-party language. |
+| "AI-first digital backbone" and "agentic workflows" | Consumer Goods Technology | 2026-02-17 | Corroborates the five-year scope and operating-model ambition. |
+| Unilever using Google Cloud and geospatial data to monitor and reduce deforestation | Financial Times partner content | 2024 | Adds external supply-chain and sustainability context beyond the launch announcement. |
 
 ---
 
@@ -148,6 +164,7 @@ Use this section alongside `verification-debt.yaml`.
 - 500+ AI projects globally (unverified).
 - "Go wide and go deep" phrase (unverified).
 - Agentic shopping models: verified as strategic statement, not yet fully evidenced as scaled operational rollout.
+- Third-party coverage now corroborates the five-year AI-first backbone language; it should be used to support, not replace, the primary-source record.
 
 ---
 
